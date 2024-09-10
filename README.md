@@ -42,8 +42,8 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 ### Just monitors
 - [Dasung Paperlike, 13.3"](https://dasung-tech.myshopify.com/products/dasung-e-ink-paperlike-hd-front-light-and-touch-13-3-monitor?variant=41199792488632) - most affordable choice at the moment.
 - [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor! 
-- [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - hight quality 13.3" monitor from Onyx.
-- [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - hight quality 25.3" monitor from Onyx.
+- [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - highest quality 13.3" monitor from Onyx.
+- [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - highest quality 25.3" monitor from Onyx.
 
 ### Readers with monitor capabilities
 - [Onyx Boox Max Lumi](https://shop.boox.com/products/maxlumi) - 13.3" e-ink reader with hdmi input.
@@ -81,7 +81,7 @@ For PocketBook readers:
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
 
 ## Great resources about e-ink
-- [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - Hight-quality reviews from e-ink technology enthusiast.
+- [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
 - [r/e-ink](https://www.reddit.com/r/e-ink/) - Reddit e-ink community.
 - [E-Ink Hacking](https://hackaday.io/projects?tag=e-ink) - Hackaday.io e-ink projects.
 - [GitHub e-ink topic](https://github.com/topics/e-ink)
