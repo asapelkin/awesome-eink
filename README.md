@@ -79,6 +79,7 @@ For PocketBook readers:
 ## DIY
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
+- [Soldered Inkplate](https://soldered.com/categories/inkplate/) - ESP32 based WiFi ready all-in-one e-ink boards
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
