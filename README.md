@@ -96,6 +96,7 @@ For PocketBook readers:
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
+- [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
