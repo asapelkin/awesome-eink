@@ -50,6 +50,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor! 
 - [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - highest quality 13.3" monitor from Onyx.
 - [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - highest quality 25.3" monitor from Onyx.
+- [Waveshare](https://www.waveshare.com/eink-disp.htm) - 9.7"/10.3"/13.3" E-paper Monitor, Mini HDMI Interface
 - [Eazeye](https://eazeye.com/products/eazeye) - LCD monitor with natural backlight
 - [Radiant](https://eazeye.com/pages/radiant) - portable 13" RLCD monitor with HDMI, USB and miracast inputs
 
