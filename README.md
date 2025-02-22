@@ -36,7 +36,14 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Remarkable](https://remarkable.com/) - very popular solution with a huge emphasis on notetaking.
 - [PineNote](https://www.pine64.org/pinenote/) - community driven e-ink Linux tablet!
 - [Amazon Kindle Scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B) - notetaking device from well none producer.
-- [Bigme](https://bigmestore.com/) - high-end but expensive devices. 
+- [Bigme](https://bigmestore.com/) - high-end but expensive devices.
+- [Boox](https://www.boox.com/) - Many Android tablets
+- [Eyemoo S1](https://eyemootech.com/) - Color RLCD Android tablet
+- [Hannspree Hannsnote 2](https://www.hannspree.com/hannsnote2) - Color RLCD Android tablet
+- [Viwoods AIPaper](https://viwoods.com/) - B&W RLCD Android tablet with wacom stylus
+- [Hisense Q5](https://goodereader.com/blog/reviews/hisense-q5-rlcd-hands-on-review) - B&W RLCD Android tablet
+- [TCL Nxtpaper S8](https://www.youtube.com/watch?app=desktop&v=JtLRVF1YHJU) - Color RLCD Android tablet
+- [Daylight DC1](https://daylightcomputer.com/): - Black & White RLCD Android tablet
 
 ## Monitors
 ### Just monitors
@@ -44,9 +51,14 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor! 
 - [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - highest quality 13.3" monitor from Onyx.
 - [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - highest quality 25.3" monitor from Onyx.
+- [Waveshare](https://www.waveshare.com/eink-disp.htm) - 9.7"/10.3"/13.3" E-paper Monitor, Mini HDMI Interface
+- [Eazeye](https://eazeye.com/products/eazeye) - LCD monitor with natural backlight
+- [Radiant](https://eazeye.com/pages/radiant) - portable 13" RLCD monitor with HDMI, USB and miracast inputs
 
 ### Readers with monitor capabilities
 - [Onyx Boox Max Lumi](https://shop.boox.com/products/maxlumi) - 13.3" e-ink reader with hdmi input.
+- [Onyx Boox Max 2](https://onyxboox.com/boox_max2) - 13.3" e-ink reader and Android 6 tablet with hdmi input and wacom stylus.
+- [Onyx Boox Max 3](https://onyxboox.com/boox_max3) - 13.3" e-ink reader and Android 9 tablet with hdmi input and wacom stylus.
 
 ### Apps that turn your e-ink tablet into a monitor
 Windows only:
@@ -55,6 +67,7 @@ Windows only:
 
 Windows, Linux, Mac:
 - [Weylus](https://github.com/H-M-H/Weylus) - opensource alternative to Spacedesk & SuperDisplay.
+- [AnyDesk](https://anydesk.com/en) - Mirrors pc screen on android device. Sessions duration for free version limited to 40 minutes.
 
 For PocketBook readers:
 - [remote-ink](https://github.com/borzunov/remote-ink) - opensource alternative for the PocketBook e-readers
@@ -74,12 +87,19 @@ For PocketBook readers:
 ## Phones
 - [Light Phone](https://www.thelightphone.com/) - minimalistic e-ink phone.
 - [Hisense A5 Pro](https://goodereaderstore.com/products/hisense-a5-pro-64gb-e-ink-smartphone) - e-ink android phone that tries to be a normal phone.
-- [Hisense A5 Pro CC Color](https://goodereaderstore.com/products/hisense-a5-pro-cc-color-e-ink-smartphone) - android phone with colorful e-ink screen. 
+- [Hisense A5 Pro CC Color](https://goodereaderstore.com/products/hisense-a5-pro-cc-color-e-ink-smartphone) - android phone with colorful e-ink screen.
+- [Bigme Hibreak](https://goodereader.com/blog/reviews/hands-on-review-of-the-bigme-hibreak-color-e-ink-smartphone) - B&W and color models available (out in 2024)
+- [TCL 40 Nxtpaper](https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper) - IPS phone with matte finish and paper-like visual mode
+
+## Laptop
+- [Modos](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 
 ## DIY
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
 - [Soldered Inkplate](https://soldered.com/categories/inkplate/) - ESP32 based WiFi ready all-in-one e-ink boards
+- [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
+- [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
@@ -87,5 +107,7 @@ For PocketBook readers:
 - [E-Ink Hacking](https://hackaday.io/projects?tag=e-ink) - Hackaday.io e-ink projects.
 - [GitHub e-ink topic](https://github.com/topics/e-ink)
 - [Ewritable](https://ewritable.com/) - reviews, comparison tables, buying guides.
+- [Mobileread](https://www.mobileread.com/) - forum on ereading, several referring to eink devices
+- [GoodEreader](https://goodereader.com/) - reviews
 
 **[⬆️ Back to the top ⬆️](#contents)**
