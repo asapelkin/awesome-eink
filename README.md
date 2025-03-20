@@ -15,6 +15,8 @@
   - [Coding](#coding)
   - [Linux](#linux)
   - [Phones](#phones)
+  - [Laptop](#laptop)
+  - [Smartwatch](#smartwatch)
   - [DIY](#diy)
   - [Great resources about e-ink](#great-resources-about-e-ink)
 
@@ -94,12 +96,16 @@ For PocketBook readers:
 ## Laptop
 - [Modos](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 
+## Smartwatch
+- [Pebble Core 2 Duo](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) - Open-Sourced PebbleOS Smartwatch
+
 ## DIY
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
 - [Soldered Inkplate](https://soldered.com/categories/inkplate/) - ESP32 based WiFi ready all-in-one e-ink boards
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
+- [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
