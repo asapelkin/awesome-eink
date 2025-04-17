@@ -46,6 +46,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Hisense Q5](https://goodereader.com/blog/reviews/hisense-q5-rlcd-hands-on-review) - B&W RLCD Android tablet
 - [TCL Nxtpaper S8](https://www.youtube.com/watch?app=desktop&v=JtLRVF1YHJU) - Color RLCD Android tablet
 - [Daylight DC1](https://daylightcomputer.com/): - Black & White RLCD Android tablet
+- [TRMNL](https://trmnl.ink/): - Hackable dashboard with 100s of plugins
 
 ## Monitors
 ### Just monitors
