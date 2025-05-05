@@ -47,6 +47,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [TCL Nxtpaper S8](https://www.youtube.com/watch?app=desktop&v=JtLRVF1YHJU) - Color RLCD Android tablet
 - [Daylight DC1](https://daylightcomputer.com/): - Black & White RLCD Android tablet
 - [TRMNL](https://trmnl.ink/): - Hackable dashboard with 100s of plugins
+- [Supernote](https://supernote.com/) - Android e-ink tablets in a variety of sizes
 
 ## Monitors
 ### Just monitors
