@@ -94,6 +94,7 @@ For PocketBook readers:
 - [Hisense A5 Pro CC Color](https://goodereaderstore.com/products/hisense-a5-pro-cc-color-e-ink-smartphone) - android phone with colorful e-ink screen.
 - [Bigme Hibreak](https://goodereader.com/blog/reviews/hands-on-review-of-the-bigme-hibreak-color-e-ink-smartphone) - B&W and color models available (out in 2024)
 - [TCL 40 Nxtpaper](https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper) - IPS phone with matte finish and paper-like visual mode
+- [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/) - Mudita Kompakt is a phone designed for your daily balance
 
 ## Laptop
 - [Modos](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
