@@ -96,7 +96,12 @@ For PocketBook readers:
 - [TCL 40 Nxtpaper](https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper) - IPS phone with matte finish and paper-like visual mode
 - [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/) - Mudita Kompakt is a phone designed for your daily balance
 
+## Eink Android launchers
+- [ReLaunchX](https://github.com/Leszek111/ReLaunchX) - versatile reading programs launcher and system-wide shell for Onyx Boox Max
+- [ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher) - a minimalist Android launcher designed specifically for e-ink devices
+
 ## Laptop
+- [Lenovo Thinkbook plus gen4](https://www.pcmag.com/reviews/lenovo-thinkbook-plus-gen-4) - Dual screen (OLED & eink) twist 2-in-1 laptop
 - [Modos](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 
 ## Smartwatch
