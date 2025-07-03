@@ -99,6 +99,7 @@ For PocketBook readers:
 ## Eink Android launchers
 - [ReLaunchX](https://github.com/Leszek111/ReLaunchX) - versatile reading programs launcher and system-wide shell for Onyx Boox Max
 - [ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher) - a minimalist Android launcher designed specifically for e-ink devices
+- [inkOS](https://github.com/gezimos/inkOS) - fork of mLauncher/oLauncher designed for e-ink devices
 
 ## Laptop
 - [Lenovo Thinkbook plus gen4](https://www.pcmag.com/reviews/lenovo-thinkbook-plus-gen-4) - Dual screen (OLED & eink) twist 2-in-1 laptop
@@ -117,11 +118,12 @@ For PocketBook readers:
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
-- [r/e-ink](https://www.reddit.com/r/e-ink/) - Reddit e-ink community.
+- [r/eink](https://www.reddit.com/r/eink/) - Reddit e-ink community.
 - [E-Ink Hacking](https://hackaday.io/projects?tag=e-ink) - Hackaday.io e-ink projects.
 - [GitHub e-ink topic](https://github.com/topics/e-ink)
 - [Ewritable](https://ewritable.com/) - reviews, comparison tables, buying guides.
 - [Mobileread](https://www.mobileread.com/) - forum on ereading, several referring to eink devices
 - [GoodEreader](https://goodereader.com/) - reviews
+- [Eink.link](https://eink.link/) - A curated list of e-ink devices, apps, and resources.
 
 **[⬆️ Back to the top ⬆️](#contents)**
