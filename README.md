@@ -27,10 +27,10 @@
 ## Readers
 - [Amazon Kindle](https://www.amazon.com/b/?node=6669702011) - the family of e-ink devices whose name has become a household name.
 - [Pocketbook](https://www.pocketbook-int.com/en/) - conservative and reliable devices.
-- [Onyx Boox](https://onyxboox.com/) - producer with sometimes unconventional but solid views on e-ink future. 
+- [Onyx Boox](https://onyxboox.com/) - producer with sometimes unconventional but solid views on e-ink future.
 - [Comparison of e-readers](https://en.wikipedia.org/wiki/Comparison_of_e-readers) - and there are many others.
 
-## Tablets 
+## Tablets
 E-ink devices suitable for taking notes, surfing the web, etc.
 - [Ewritable](https://ewritable.com/comparison/) - Website that helps to compare e-ink tablets.
 - [Onyx Boox tablets](https://shop.boox.com/collections/e-ink-tablet) - powerful general purpose e-ink Android devices.
@@ -52,7 +52,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 ## Monitors
 ### Just monitors
 - [Dasung Paperlike, 13.3"](https://dasung-tech.myshopify.com/products/dasung-e-ink-paperlike-hd-front-light-and-touch-13-3-monitor?variant=41199792488632) - most affordable choice at the moment.
-- [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor! 
+- [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor!
 - [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - highest quality 13.3" monitor from Onyx.
 - [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - highest quality 25.3" monitor from Onyx.
 - [Waveshare](https://www.waveshare.com/eink-disp.htm) - 9.7"/10.3"/13.3" E-paper Monitor, Mini HDMI Interface
@@ -93,6 +93,7 @@ For PocketBook readers:
 - [Hisense A5 Pro](https://goodereaderstore.com/products/hisense-a5-pro-64gb-e-ink-smartphone) - e-ink android phone that tries to be a normal phone.
 - [Hisense A5 Pro CC Color](https://goodereaderstore.com/products/hisense-a5-pro-cc-color-e-ink-smartphone) - android phone with colorful e-ink screen.
 - [Bigme Hibreak](https://goodereader.com/blog/reviews/hands-on-review-of-the-bigme-hibreak-color-e-ink-smartphone) - B&W and color models available (out in 2024)
+- [Minimal Phone] (https://minimalcompany.com/) - android phone with black and white e-paper display and modern android OS
 - [TCL 40 Nxtpaper](https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper) - IPS phone with matte finish and paper-like visual mode
 - [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/) - Mudita Kompakt is a phone designed for your daily balance
 
