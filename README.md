@@ -37,7 +37,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Huawei MatePad Paper](https://consumer.huawei.com/en/tablets/matepad-paper/) - alternative made by Huawai.
 - [Remarkable](https://remarkable.com/) - very popular solution with a huge emphasis on notetaking.
 - [PineNote](https://www.pine64.org/pinenote/) - community driven e-ink Linux tablet!
-- [Amazon Kindle Scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B) - notetaking device from well none producer.
+- [Amazon Kindle Scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B) - notetaking device from well-known producer.
 - [Bigme](https://bigmestore.com/) - high-end but expensive devices.
 - [Boox](https://www.boox.com/) - Many Android tablets
 - [Eyemoo S1](https://eyemootech.com/) - Color RLCD Android tablet
