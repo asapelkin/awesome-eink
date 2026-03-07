@@ -55,6 +55,7 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Dasung Paperlike 253](https://dasung-tech.myshopify.com/products/dasung-25-3-e-ink-monitor-paperlike-253?variant=41301276721336) - e-ink 25.3" monitor!
 - [Onyx Boox Mira, 13.3"](https://onyx-boox.ru/boox_mira) - highest quality 13.3" monitor from Onyx.
 - [Onyx Boox Mira Pro, 25.3"](https://onyx-boox.ru/boox_mirapro) - highest quality 25.3" monitor from Onyx.
+- [Bigme B251 color Monitor](https://store.bigme.vip/products/worlds-1st-all-in-one-pc-with-e-ink-color-display) - 25.3" Standalone monitor and All-in-one-PC
 - [Waveshare](https://www.waveshare.com/eink-disp.htm) - 9.7"/10.3"/13.3" E-paper Monitor, Mini HDMI Interface
 - [Eazeye](https://eazeye.com/products/eazeye) - LCD monitor with natural backlight
 - [Radiant](https://eazeye.com/pages/radiant) - portable 13" RLCD monitor with HDMI, USB and miracast inputs
@@ -93,7 +94,7 @@ For PocketBook readers:
 - [Hisense A5 Pro](https://goodereaderstore.com/products/hisense-a5-pro-64gb-e-ink-smartphone) - e-ink android phone that tries to be a normal phone.
 - [Hisense A5 Pro CC Color](https://goodereaderstore.com/products/hisense-a5-pro-cc-color-e-ink-smartphone) - android phone with colorful e-ink screen.
 - [Bigme Hibreak](https://goodereader.com/blog/reviews/hands-on-review-of-the-bigme-hibreak-color-e-ink-smartphone) - B&W and color models available (out in 2024)
-- [Minimal Phone] (https://minimalcompany.com/) - android phone with black and white e-paper display and modern android OS
+- [Minimal Phone](https://minimalcompany.com/) - android phone with black and white e-paper display and modern android OS
 - [TCL 40 Nxtpaper](https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper) - IPS phone with matte finish and paper-like visual mode
 - [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/) - Mudita Kompakt is a phone designed for your daily balance
 
