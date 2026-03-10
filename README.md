@@ -108,6 +108,7 @@ For PocketBook readers:
 
 ## Smartwatch
 - [Pebble Core 2 Duo](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) - Open-Sourced PebbleOS Smartwatch
+- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with 2.0" PaPiRus e-ink display that generates Wi-Fi voucher codes on demand.
 
 ## DIY
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
@@ -116,7 +117,6 @@ For PocketBook readers:
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
-- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with 2.0" PaPiRus e-ink display that generates Wi-Fi voucher codes on demand.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
