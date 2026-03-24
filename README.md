@@ -109,6 +109,7 @@ For PocketBook readers:
 
 ## Smartwatch
 - [Pebble Core 2 Duo](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) - Open-Sourced PebbleOS Smartwatch
+- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with 2.0" PaPiRus e-ink display that generates Wi-Fi voucher codes on demand.
 
 ## DIY
 - [Waveshare e-ink modules](https://www.waveshare.com/product/displays/e-paper.htm) - e-ink modules for DIY projects from Waveshare.
