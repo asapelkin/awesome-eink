@@ -74,8 +74,8 @@ Windows, Linux, Mac:
 - [Weylus](https://github.com/H-M-H/Weylus) - opensource alternative to Spacedesk & SuperDisplay.
 - [AnyDesk](https://anydesk.com/en) - Mirrors pc screen on android device. Sessions duration for free version limited to 40 minutes.
 
-For PocketBook readers:
-- [remote-ink](https://github.com/borzunov/remote-ink) - opensource alternative for the PocketBook e-readers
+PocketBook readers:
+- [remoteink](https://github.com/borzunov/remoteink) - opensource alternative for the PocketBook e-readers
 
 ### SPI e-ink displays as a computer monitor
 - [PaperTTY](https://github.com/joukos/PaperTTY) - Python module to render a TTY or VNC on e-ink.
