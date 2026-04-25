@@ -87,7 +87,7 @@ PocketBook readers:
 
 ## Linux
 - [Screen scale with xrandr](https://blog.summercat.com/configuring-mixed-dpi-monitors-with-xrandr.html) - how to scale only one of your screens.
-- [KDE Konsole E-Ink color scheme](https://github.com/asapelkin/konsole-e-ink) - KDE Konsole theme adapted for e-ink monitors.
+- [KDE Konsole E-Ink color scheme](https://github.com/asapelkin/konsole-eink) - KDE Konsole theme adapted for e-ink monitors.
 
 ## Phones
 - [Light Phone](https://www.thelightphone.com/) - minimalistic e-ink phone.
