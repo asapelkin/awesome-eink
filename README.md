@@ -117,6 +117,7 @@ PocketBook readers:
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
+- [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
