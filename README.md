@@ -118,6 +118,7 @@ PocketBook readers:
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 - [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
+- [Freedom Clock](https://github.com/mr21free/freedom_clock_heltec_vme) - ESP32 e-ink desk device that shows years of financial freedom. Heltec Vision Master E290, ~$30 BOM. MIT.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
