@@ -7,6 +7,7 @@
   - [What is E-ink](#what-is-e-ink)
   - [Readers](#readers)
   - [Tablets](#tablets)
+  - [Apps](#apps)
   - [Monitors](#monitors)
     - [Just monitors](#just-monitors)
     - [Readers with monitor capabilities](#readers-with-monitor-capabilities)
@@ -48,6 +49,10 @@ E-ink devices suitable for taking notes, surfing the web, etc.
 - [Daylight DC1](https://daylightcomputer.com/): - Black & White RLCD Android tablet
 - [TRMNL](https://trmnl.ink/): - Hackable dashboard with 100s of plugins
 - [Supernote](https://supernote.com/) - Android e-ink tablets in a variety of sizes
+
+## Apps
+Software and services that work with e-ink tablets.
+- [Inkward](https://inkward.life) - reads your handwritten notes from reMarkable and Supernote and gives back a calm daily, weekly, and monthly reflection of your own words; private, EU-hosted, GDPR-first.
 
 ## Monitors
 ### Just monitors
