@@ -129,5 +129,6 @@ PocketBook readers:
 - [Mobileread](https://www.mobileread.com/) - forum on ereading, several referring to eink devices
 - [GoodEreader](https://goodereader.com/) - reviews
 - [Eink.link](https://eink.link/) - A curated list of e-ink devices, apps, and resources.
+- [PocketInk](https://pocketink.io) - Reviews, buying guides, and a verified [firmware reference](https://pocketink.io/firmware/) for compact e-ink readers (Xteink X3/X4, CrossPoint).
 
 **[⬆️ Back to the top ⬆️](#contents)**
