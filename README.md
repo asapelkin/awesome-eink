@@ -116,6 +116,7 @@ PocketBook readers:
 - [Soldered Inkplate](https://soldered.com/categories/inkplate/) - ESP32 based WiFi ready all-in-one e-ink boards
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [Ferrink](https://github.com/justinledwards/ferrink) - Rust launcher and home screen replacement for E Ink readers (Kindle). Opens locally installed apps and returns when they close.
+- [Ferrink Home Assistant](https://github.com/justinledwards/ferrink-home-assistant) - Native touch-controlled e-ink dashboard for jailbroken Kindles that talks directly to Home Assistant. Renders climate, lights, and calendar without a browser.
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 - [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
