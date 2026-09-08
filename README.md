@@ -118,6 +118,7 @@ PocketBook readers:
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 - [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
+- [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) - MIT-licensed patches that make the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons. Developed on a Paperwhite 11 (5.19.2), checks other models structurally. Requires KUAL and KOReader; every change is backed up and reversible.
 - [Tesserae](https://github.com/dmellok/tesserae) - self-hosted e-ink dashboard server with multi-device push to Pi, ESP32, jailbroken Kindle, and TRMNL panels.
 
 ## Great resources about e-ink
