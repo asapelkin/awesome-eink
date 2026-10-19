@@ -119,6 +119,7 @@ PocketBook readers:
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 - [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
 - [Tesserae](https://github.com/dmellok/tesserae) - self-hosted e-ink dashboard server with multi-device push to Pi, ESP32, jailbroken Kindle, and TRMNL panels.
+- [Inkwell](https://github.com/pragyaangaur/Inkwell) - Alpine Linux userspace that turns a jailbroken Kindle Paperwhite 3 into its own e-ink computer, with an offline LLM chatbot, Doom, Minecraft rd-132211, a browser, notes, a sketchpad and SSH over USB.
 
 ## Great resources about e-ink
 - [My Deep Guide](https://www.youtube.com/@MyDeepGuide) - High-quality reviews from e-ink technology enthusiast.
