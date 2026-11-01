@@ -28,6 +28,7 @@
 - [Amazon Kindle](https://www.amazon.com/b/?node=6669702011) - the family of e-ink devices whose name has become a household name.
 - [Pocketbook](https://www.pocketbook-int.com/en/) - conservative and reliable devices.
 - [Onyx Boox](https://onyxboox.com/) - producer with sometimes unconventional but solid views on e-ink future.
+- [KindleHub](https://kindlehub.pro) - free web app for the stock Kindle browser, no jailbreak: 100+ games designed for e-ink redraws, online chess, Project Gutenberg books, notes.
 - [Comparison of e-readers](https://en.wikipedia.org/wiki/Comparison_of_e-readers) - and there are many others.
 
 ## Tablets
