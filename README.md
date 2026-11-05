@@ -81,6 +81,7 @@ PocketBook readers:
 - [PaperTTY](https://github.com/joukos/PaperTTY) - Python module to render a TTY or VNC on e-ink.
 
 ## Coding
+- [E-Paper Image Converter](https://embeddednote.com/en/tools/epaper-image-converter/) - Free browser-based image converter for limited-color e-paper displays, with custom palettes, CIE Lab color matching, and dithering options including Floyd–Steinberg, Atkinson, and Bayer. Useful for previewing image-processing settings before testing on a physical panel.
 - [VS-Code e-ink theme](https://marketplace.visualstudio.com/items?itemName=mufanza.e-ink-theme) - VSCode theme adapted for e-ink monitors.
 - [JetBrains Eink UI Theme](https://plugins.jetbrains.com/plugin/19687-e-ink-ui-theme) - JB theme adapted for e-ink monitors.
 - [JetBrains Eink Color Scheme](https://plugins.jetbrains.com/plugin/17106-e-ink-color-scheme) - JB color scheme adapted for e-ink monitors.
