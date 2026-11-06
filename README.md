@@ -102,6 +102,7 @@ PocketBook readers:
 - [ReLaunchX](https://github.com/Leszek111/ReLaunchX) - versatile reading programs launcher and system-wide shell for Onyx Boox Max
 - [ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher) - a minimalist Android launcher designed specifically for e-ink devices
 - [inkOS](https://github.com/gezimos/inkOS) - fork of mLauncher/oLauncher designed for e-ink devices
+- [Pebble Desk](https://github.com/hissinger/pebble-desk) - launcher for Android e-readers that puts the book you're reading on the home screen and logs your reading automatically. Works with NeoReader, KOReader, Kindle, Libby and more.
 
 ## Laptop
 - [Lenovo Thinkbook plus gen4](https://www.pcmag.com/reviews/lenovo-thinkbook-plus-gen-4) - Dual screen (OLED & eink) twist 2-in-1 laptop
