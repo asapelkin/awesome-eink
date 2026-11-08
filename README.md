@@ -115,6 +115,7 @@ PocketBook readers:
 - [Adafruit e-ink modules](https://www.adafruit.com/category/150) - e-ink modules for DIY projects from Adafruit.
 - [Soldered Inkplate](https://soldered.com/categories/inkplate/) - ESP32 based WiFi ready all-in-one e-ink boards
 - [Glider](https://gitlab.com/zephray/glider) - HDMI input driver board for eink panel. Plenty of useful information on the README too.
+- [EINKTIME](https://einktime.com/) - web editor for turning old e-readers into customizable dashboards in their built-in browser, with a demo for testing refresh and sleep behavior.
 - [EPDiy](https://github.com/vroland/epdiy) - ESP32 based driver board for eink panel.
 - [BeepBerry](https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers) - a portable e-paper computer for hackers (based on RaspberryPi Zero W )
 - [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - local-first dashboard that turns a jailbroken Kindle into a desktop side display.
