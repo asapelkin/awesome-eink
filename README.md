@@ -129,5 +129,6 @@ PocketBook readers:
 - [Mobileread](https://www.mobileread.com/) - forum on ereading, several referring to eink devices
 - [GoodEreader](https://goodereader.com/) - reviews
 - [Eink.link](https://eink.link/) - A curated list of e-ink devices, apps, and resources.
+- [cobuild](https://cobuild.sh/categories/e-readers) - Open-source apps, firmware and tools for Kindle, Kobo, Boox, reMarkable and other e-ink devices, with supported models per project.
 
 **[⬆️ Back to the top ⬆️](#contents)**
